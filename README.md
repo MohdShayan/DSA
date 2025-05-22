@@ -13,6 +13,7 @@
 | [0169-majority-element](https://github.com/MohdShayan/DSA/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/MohdShayan/DSA/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/MohdShayan/DSA/tree/master/0485-max-consecutive-ones) |
+| [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/MohdShayan/DSA/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/MohdShayan/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Hash Table
 |  |
