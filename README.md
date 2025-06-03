@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/MohdShayan/DSA/tree/master/0001-two-sum) |
+| [0048-rotate-image](https://github.com/MohdShayan/DSA/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/MohdShayan/DSA/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/MohdShayan/DSA/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/MohdShayan/DSA/tree/master/0073-set-matrix-zeroes) |
@@ -30,6 +31,7 @@
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/MohdShayan/DSA/tree/master/0048-rotate-image) |
 | [0268-missing-number](https://github.com/MohdShayan/DSA/tree/master/0268-missing-number) |
 | [3227-find-missing-and-repeated-values](https://github.com/MohdShayan/DSA/tree/master/3227-find-missing-and-repeated-values) |
 ## Binary Search
@@ -74,6 +76,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/MohdShayan/DSA/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/MohdShayan/DSA/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/MohdShayan/DSA/tree/master/0073-set-matrix-zeroes) |
 | [3227-find-missing-and-repeated-values](https://github.com/MohdShayan/DSA/tree/master/3227-find-missing-and-repeated-values) |
