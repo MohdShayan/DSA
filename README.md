@@ -21,6 +21,7 @@
 | [0792-binary-search](https://github.com/MohdShayan/DSA/tree/master/0792-binary-search) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/MohdShayan/DSA/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/MohdShayan/DSA/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [2144-maximum-difference-between-increasing-elements](https://github.com/MohdShayan/DSA/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/MohdShayan/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/MohdShayan/DSA/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [3227-find-missing-and-repeated-values](https://github.com/MohdShayan/DSA/tree/master/3227-find-missing-and-repeated-values) |
