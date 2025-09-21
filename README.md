@@ -96,6 +96,7 @@
 ## String
 |  |
 | ------- |
+| [0058-length-of-last-word](https://github.com/MohdShayan/DSA/tree/master/0058-length-of-last-word) |
 | [3396-valid-word](https://github.com/MohdShayan/DSA/tree/master/3396-valid-word) |
 ## Prefix Sum
 |  |
