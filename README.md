@@ -122,4 +122,8 @@
 |  |
 | ------- |
 | [1448-maximum-69-number](https://github.com/MohdShayan/DSA/tree/master/1448-maximum-69-number) |
+## Database
+|  |
+| ------- |
+| [0595-big-countries](https://github.com/MohdShayan/DSA/tree/master/0595-big-countries) |
 <!---LeetCode Topics End-->
