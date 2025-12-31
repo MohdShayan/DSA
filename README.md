@@ -157,6 +157,7 @@
 | [0183-customers-who-never-order](https://github.com/MohdShayan/DSA/tree/master/0183-customers-who-never-order) |
 | [0196-delete-duplicate-emails](https://github.com/MohdShayan/DSA/tree/master/0196-delete-duplicate-emails) |
 | [0595-big-countries](https://github.com/MohdShayan/DSA/tree/master/0595-big-countries) |
+| [1693-daily-leads-and-partners](https://github.com/MohdShayan/DSA/tree/master/1693-daily-leads-and-partners) |
 | [1757-recyclable-and-low-fat-products](https://github.com/MohdShayan/DSA/tree/master/1757-recyclable-and-low-fat-products) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/MohdShayan/DSA/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 ## Tree
