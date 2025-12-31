@@ -157,6 +157,7 @@
 | [0183-customers-who-never-order](https://github.com/MohdShayan/DSA/tree/master/0183-customers-who-never-order) |
 | [0196-delete-duplicate-emails](https://github.com/MohdShayan/DSA/tree/master/0196-delete-duplicate-emails) |
 | [0595-big-countries](https://github.com/MohdShayan/DSA/tree/master/0595-big-countries) |
+| [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/MohdShayan/DSA/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 ## Tree
 |  |
 | ------- |
