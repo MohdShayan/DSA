@@ -152,5 +152,6 @@
 ## Database
 |  |
 | ------- |
+| [0181-employees-earning-more-than-their-managers](https://github.com/MohdShayan/DSA/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0595-big-countries](https://github.com/MohdShayan/DSA/tree/master/0595-big-countries) |
 <!---LeetCode Topics End-->
