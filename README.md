@@ -160,6 +160,7 @@
 | [0196-delete-duplicate-emails](https://github.com/MohdShayan/DSA/tree/master/0196-delete-duplicate-emails) |
 | [0595-big-countries](https://github.com/MohdShayan/DSA/tree/master/0595-big-countries) |
 | [1068-product-sales-analysis-i](https://github.com/MohdShayan/DSA/tree/master/1068-product-sales-analysis-i) |
+| [1393-capital-gainloss](https://github.com/MohdShayan/DSA/tree/master/1393-capital-gainloss) |
 | [1683-invalid-tweets](https://github.com/MohdShayan/DSA/tree/master/1683-invalid-tweets) |
 | [1693-daily-leads-and-partners](https://github.com/MohdShayan/DSA/tree/master/1693-daily-leads-and-partners) |
 | [1741-find-total-time-spent-by-each-employee](https://github.com/MohdShayan/DSA/tree/master/1741-find-total-time-spent-by-each-employee) |
