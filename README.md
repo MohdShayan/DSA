@@ -158,6 +158,7 @@
 | [0182-duplicate-emails](https://github.com/MohdShayan/DSA/tree/master/0182-duplicate-emails) |
 | [0183-customers-who-never-order](https://github.com/MohdShayan/DSA/tree/master/0183-customers-who-never-order) |
 | [0196-delete-duplicate-emails](https://github.com/MohdShayan/DSA/tree/master/0196-delete-duplicate-emails) |
+| [0511-game-play-analysis-i](https://github.com/MohdShayan/DSA/tree/master/0511-game-play-analysis-i) |
 | [0595-big-countries](https://github.com/MohdShayan/DSA/tree/master/0595-big-countries) |
 | [0627-swap-sex-of-employees](https://github.com/MohdShayan/DSA/tree/master/0627-swap-sex-of-employees) |
 | [1068-product-sales-analysis-i](https://github.com/MohdShayan/DSA/tree/master/1068-product-sales-analysis-i) |
