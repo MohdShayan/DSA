@@ -166,6 +166,7 @@
 | [0610-triangle-judgement](https://github.com/MohdShayan/DSA/tree/master/0610-triangle-judgement) |
 | [0627-swap-sex-of-employees](https://github.com/MohdShayan/DSA/tree/master/0627-swap-sex-of-employees) |
 | [1068-product-sales-analysis-i](https://github.com/MohdShayan/DSA/tree/master/1068-product-sales-analysis-i) |
+| [1179-reformat-department-table](https://github.com/MohdShayan/DSA/tree/master/1179-reformat-department-table) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/MohdShayan/DSA/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1393-capital-gainloss](https://github.com/MohdShayan/DSA/tree/master/1393-capital-gainloss) |
 | [1484-group-sold-products-by-the-date](https://github.com/MohdShayan/DSA/tree/master/1484-group-sold-products-by-the-date) |
