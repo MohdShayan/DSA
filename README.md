@@ -43,6 +43,7 @@
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/MohdShayan/DSA/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [3227-find-missing-and-repeated-values](https://github.com/MohdShayan/DSA/tree/master/3227-find-missing-and-repeated-values) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/MohdShayan/DSA/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
+| [3637-trionic-array-i](https://github.com/MohdShayan/DSA/tree/master/3637-trionic-array-i) |
 ## Hash Table
 |  |
 | ------- |
