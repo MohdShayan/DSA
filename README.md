@@ -149,6 +149,7 @@
 | ------- |
 | [0058-length-of-last-word](https://github.com/MohdShayan/DSA/tree/master/0058-length-of-last-word) |
 | [0344-reverse-string](https://github.com/MohdShayan/DSA/tree/master/0344-reverse-string) |
+| [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/MohdShayan/DSA/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [3396-valid-word](https://github.com/MohdShayan/DSA/tree/master/3396-valid-word) |
 ## Prefix Sum
 |  |
