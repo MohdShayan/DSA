@@ -39,6 +39,7 @@
 | [1539-kth-missing-positive-number](https://github.com/MohdShayan/DSA/tree/master/1539-kth-missing-positive-number) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/MohdShayan/DSA/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1901-find-a-peak-element-ii](https://github.com/MohdShayan/DSA/tree/master/1901-find-a-peak-element-ii) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/MohdShayan/DSA/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/MohdShayan/DSA/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/MohdShayan/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/MohdShayan/DSA/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
@@ -167,6 +168,7 @@
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/MohdShayan/DSA/tree/master/0410-split-array-largest-sum) |
 | [1448-maximum-69-number](https://github.com/MohdShayan/DSA/tree/master/1448-maximum-69-number) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/MohdShayan/DSA/tree/master/2078-two-furthest-houses-with-different-colors) |
 ## Database
 |  |
 | ------- |
