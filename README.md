@@ -36,6 +36,7 @@
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/MohdShayan/DSA/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/MohdShayan/DSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/MohdShayan/DSA/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [1470-shuffle-the-array](https://github.com/MohdShayan/DSA/tree/master/1470-shuffle-the-array) |
 | [1539-kth-missing-positive-number](https://github.com/MohdShayan/DSA/tree/master/1539-kth-missing-positive-number) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/MohdShayan/DSA/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1901-find-a-peak-element-ii](https://github.com/MohdShayan/DSA/tree/master/1901-find-a-peak-element-ii) |
