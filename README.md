@@ -34,6 +34,7 @@
 | [0792-binary-search](https://github.com/MohdShayan/DSA/tree/master/0792-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/MohdShayan/DSA/tree/master/0875-koko-eating-bananas) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/MohdShayan/DSA/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [0977-squares-of-a-sorted-array](https://github.com/MohdShayan/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/MohdShayan/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/MohdShayan/DSA/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/MohdShayan/DSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -124,6 +125,7 @@
 | [0268-missing-number](https://github.com/MohdShayan/DSA/tree/master/0268-missing-number) |
 | [0455-assign-cookies](https://github.com/MohdShayan/DSA/tree/master/0455-assign-cookies) |
 | [0645-set-mismatch](https://github.com/MohdShayan/DSA/tree/master/0645-set-mismatch) |
+| [0977-squares-of-a-sorted-array](https://github.com/MohdShayan/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/MohdShayan/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/MohdShayan/DSA/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 ## Two Pointers
@@ -132,6 +134,7 @@
 | [0075-sort-colors](https://github.com/MohdShayan/DSA/tree/master/0075-sort-colors) |
 | [0344-reverse-string](https://github.com/MohdShayan/DSA/tree/master/0344-reverse-string) |
 | [0455-assign-cookies](https://github.com/MohdShayan/DSA/tree/master/0455-assign-cookies) |
+| [0977-squares-of-a-sorted-array](https://github.com/MohdShayan/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/MohdShayan/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2540-minimum-common-value](https://github.com/MohdShayan/DSA/tree/master/2540-minimum-common-value) |
 | [3643-flip-square-submatrix-vertically](https://github.com/MohdShayan/DSA/tree/master/3643-flip-square-submatrix-vertically) |
