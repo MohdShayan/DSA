@@ -26,6 +26,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/MohdShayan/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/MohdShayan/DSA/tree/master/0268-missing-number) |
 | [0410-split-array-largest-sum](https://github.com/MohdShayan/DSA/tree/master/0410-split-array-largest-sum) |
+| [0414-third-maximum-number](https://github.com/MohdShayan/DSA/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/MohdShayan/DSA/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/MohdShayan/DSA/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/MohdShayan/DSA/tree/master/0540-single-element-in-a-sorted-array) |
@@ -123,6 +124,7 @@
 | [0075-sort-colors](https://github.com/MohdShayan/DSA/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/MohdShayan/DSA/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/MohdShayan/DSA/tree/master/0268-missing-number) |
+| [0414-third-maximum-number](https://github.com/MohdShayan/DSA/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/MohdShayan/DSA/tree/master/0455-assign-cookies) |
 | [0645-set-mismatch](https://github.com/MohdShayan/DSA/tree/master/0645-set-mismatch) |
 | [0977-squares-of-a-sorted-array](https://github.com/MohdShayan/DSA/tree/master/0977-squares-of-a-sorted-array) |
