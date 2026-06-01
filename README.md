@@ -50,6 +50,7 @@
 | [1929-concatenation-of-array](https://github.com/MohdShayan/DSA/tree/master/1929-concatenation-of-array) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/MohdShayan/DSA/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/MohdShayan/DSA/tree/master/2144-maximum-difference-between-increasing-elements) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/MohdShayan/DSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/MohdShayan/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/MohdShayan/DSA/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/MohdShayan/DSA/tree/master/2452-words-within-two-edits-of-dictionary) |
@@ -130,6 +131,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/MohdShayan/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/MohdShayan/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/MohdShayan/DSA/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/MohdShayan/DSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 ## Two Pointers
 |  |
 | ------- |
@@ -203,6 +205,7 @@
 | [0455-assign-cookies](https://github.com/MohdShayan/DSA/tree/master/0455-assign-cookies) |
 | [1448-maximum-69-number](https://github.com/MohdShayan/DSA/tree/master/1448-maximum-69-number) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/MohdShayan/DSA/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/MohdShayan/DSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 ## Database
 |  |
 | ------- |
