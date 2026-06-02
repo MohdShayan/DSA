@@ -58,6 +58,7 @@
 | [2540-minimum-common-value](https://github.com/MohdShayan/DSA/tree/master/2540-minimum-common-value) |
 | [3227-find-missing-and-repeated-values](https://github.com/MohdShayan/DSA/tree/master/3227-find-missing-and-repeated-values) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/MohdShayan/DSA/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/MohdShayan/DSA/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3637-trionic-array-i](https://github.com/MohdShayan/DSA/tree/master/3637-trionic-array-i) |
 | [3643-flip-square-submatrix-vertically](https://github.com/MohdShayan/DSA/tree/master/3643-flip-square-submatrix-vertically) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/MohdShayan/DSA/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
@@ -113,6 +114,7 @@
 | [1539-kth-missing-positive-number](https://github.com/MohdShayan/DSA/tree/master/1539-kth-missing-positive-number) |
 | [1901-find-a-peak-element-ii](https://github.com/MohdShayan/DSA/tree/master/1901-find-a-peak-element-ii) |
 | [2540-minimum-common-value](https://github.com/MohdShayan/DSA/tree/master/2540-minimum-common-value) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/MohdShayan/DSA/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -132,6 +134,7 @@
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/MohdShayan/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/MohdShayan/DSA/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/MohdShayan/DSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/MohdShayan/DSA/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -141,6 +144,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/MohdShayan/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/MohdShayan/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2540-minimum-common-value](https://github.com/MohdShayan/DSA/tree/master/2540-minimum-common-value) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/MohdShayan/DSA/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3643-flip-square-submatrix-vertically](https://github.com/MohdShayan/DSA/tree/master/3643-flip-square-submatrix-vertically) |
 ## Divide and Conquer
 |  |
@@ -206,6 +210,7 @@
 | [1448-maximum-69-number](https://github.com/MohdShayan/DSA/tree/master/1448-maximum-69-number) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/MohdShayan/DSA/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/MohdShayan/DSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/MohdShayan/DSA/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Database
 |  |
 | ------- |
