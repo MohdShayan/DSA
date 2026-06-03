@@ -187,6 +187,7 @@
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/MohdShayan/DSA/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/MohdShayan/DSA/tree/master/0058-length-of-last-word) |
 | [0344-reverse-string](https://github.com/MohdShayan/DSA/tree/master/0344-reverse-string) |
 | [0657-robot-return-to-origin](https://github.com/MohdShayan/DSA/tree/master/0657-robot-return-to-origin) |
@@ -269,6 +270,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/MohdShayan/DSA/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/MohdShayan/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [1441-build-an-array-with-stack-operations](https://github.com/MohdShayan/DSA/tree/master/1441-build-an-array-with-stack-operations) |
 ## Depth-First Search
