@@ -68,6 +68,7 @@
 | [0001-two-sum](https://github.com/MohdShayan/DSA/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/MohdShayan/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/MohdShayan/DSA/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/MohdShayan/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/MohdShayan/DSA/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/MohdShayan/DSA/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/MohdShayan/DSA/tree/master/0560-subarray-sum-equals-k) |
@@ -141,6 +142,7 @@
 | ------- |
 | [0075-sort-colors](https://github.com/MohdShayan/DSA/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/MohdShayan/DSA/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/MohdShayan/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0344-reverse-string](https://github.com/MohdShayan/DSA/tree/master/0344-reverse-string) |
 | [0455-assign-cookies](https://github.com/MohdShayan/DSA/tree/master/0455-assign-cookies) |
 | [0977-squares-of-a-sorted-array](https://github.com/MohdShayan/DSA/tree/master/0977-squares-of-a-sorted-array) |
@@ -301,4 +303,5 @@
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/MohdShayan/DSA/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/MohdShayan/DSA/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/MohdShayan/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 <!---LeetCode Topics End-->
