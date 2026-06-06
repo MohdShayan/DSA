@@ -86,6 +86,7 @@
 | [0048-rotate-image](https://github.com/MohdShayan/DSA/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/MohdShayan/DSA/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/MohdShayan/DSA/tree/master/0069-sqrtx) |
+| [0171-excel-sheet-column-number](https://github.com/MohdShayan/DSA/tree/master/0171-excel-sheet-column-number) |
 | [0268-missing-number](https://github.com/MohdShayan/DSA/tree/master/0268-missing-number) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/MohdShayan/DSA/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/MohdShayan/DSA/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
@@ -193,6 +194,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/MohdShayan/DSA/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/MohdShayan/DSA/tree/master/0058-length-of-last-word) |
+| [0171-excel-sheet-column-number](https://github.com/MohdShayan/DSA/tree/master/0171-excel-sheet-column-number) |
 | [0344-reverse-string](https://github.com/MohdShayan/DSA/tree/master/0344-reverse-string) |
 | [0657-robot-return-to-origin](https://github.com/MohdShayan/DSA/tree/master/0657-robot-return-to-origin) |
 | [0796-rotate-string](https://github.com/MohdShayan/DSA/tree/master/0796-rotate-string) |
