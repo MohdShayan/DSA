@@ -51,6 +51,7 @@
 | [2078-two-furthest-houses-with-different-colors](https://github.com/MohdShayan/DSA/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/MohdShayan/DSA/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/MohdShayan/DSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/MohdShayan/DSA/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/MohdShayan/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/MohdShayan/DSA/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/MohdShayan/DSA/tree/master/2452-words-within-two-edits-of-dictionary) |
@@ -147,6 +148,7 @@
 | [0344-reverse-string](https://github.com/MohdShayan/DSA/tree/master/0344-reverse-string) |
 | [0455-assign-cookies](https://github.com/MohdShayan/DSA/tree/master/0455-assign-cookies) |
 | [0977-squares-of-a-sorted-array](https://github.com/MohdShayan/DSA/tree/master/0977-squares-of-a-sorted-array) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/MohdShayan/DSA/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/MohdShayan/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2540-minimum-common-value](https://github.com/MohdShayan/DSA/tree/master/2540-minimum-common-value) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/MohdShayan/DSA/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -176,6 +178,7 @@
 | [1441-build-an-array-with-stack-operations](https://github.com/MohdShayan/DSA/tree/master/1441-build-an-array-with-stack-operations) |
 | [1518-water-bottles](https://github.com/MohdShayan/DSA/tree/master/1518-water-bottles) |
 | [1929-concatenation-of-array](https://github.com/MohdShayan/DSA/tree/master/1929-concatenation-of-array) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/MohdShayan/DSA/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/MohdShayan/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Matrix
 |  |
