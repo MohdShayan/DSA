@@ -57,6 +57,7 @@
 | [2452-words-within-two-edits-of-dictionary](https://github.com/MohdShayan/DSA/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/MohdShayan/DSA/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2540-minimum-common-value](https://github.com/MohdShayan/DSA/tree/master/2540-minimum-common-value) |
+| [2549-count-distinct-numbers-on-board](https://github.com/MohdShayan/DSA/tree/master/2549-count-distinct-numbers-on-board) |
 | [2574-left-and-right-sum-differences](https://github.com/MohdShayan/DSA/tree/master/2574-left-and-right-sum-differences) |
 | [3227-find-missing-and-repeated-values](https://github.com/MohdShayan/DSA/tree/master/3227-find-missing-and-repeated-values) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/MohdShayan/DSA/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
@@ -78,6 +79,7 @@
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/MohdShayan/DSA/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/MohdShayan/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2540-minimum-common-value](https://github.com/MohdShayan/DSA/tree/master/2540-minimum-common-value) |
+| [2549-count-distinct-numbers-on-board](https://github.com/MohdShayan/DSA/tree/master/2549-count-distinct-numbers-on-board) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/MohdShayan/DSA/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/MohdShayan/DSA/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3227-find-missing-and-repeated-values](https://github.com/MohdShayan/DSA/tree/master/3227-find-missing-and-repeated-values) |
@@ -94,6 +96,7 @@
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/MohdShayan/DSA/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1448-maximum-69-number](https://github.com/MohdShayan/DSA/tree/master/1448-maximum-69-number) |
 | [1518-water-bottles](https://github.com/MohdShayan/DSA/tree/master/1518-water-bottles) |
+| [2549-count-distinct-numbers-on-board](https://github.com/MohdShayan/DSA/tree/master/2549-count-distinct-numbers-on-board) |
 | [3227-find-missing-and-repeated-values](https://github.com/MohdShayan/DSA/tree/master/3227-find-missing-and-repeated-values) |
 | [3830-find-closest-person](https://github.com/MohdShayan/DSA/tree/master/3830-find-closest-person) |
 ## Binary Search
@@ -181,6 +184,7 @@
 | [1929-concatenation-of-array](https://github.com/MohdShayan/DSA/tree/master/1929-concatenation-of-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/MohdShayan/DSA/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/MohdShayan/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2549-count-distinct-numbers-on-board](https://github.com/MohdShayan/DSA/tree/master/2549-count-distinct-numbers-on-board) |
 ## Matrix
 |  |
 | ------- |
