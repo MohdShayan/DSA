@@ -74,6 +74,7 @@
 | [0141-linked-list-cycle](https://github.com/MohdShayan/DSA/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/MohdShayan/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/MohdShayan/DSA/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/MohdShayan/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/MohdShayan/DSA/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/MohdShayan/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/MohdShayan/DSA/tree/master/0645-set-mismatch) |
@@ -135,6 +136,7 @@
 | ------- |
 | [0075-sort-colors](https://github.com/MohdShayan/DSA/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/MohdShayan/DSA/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/MohdShayan/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/MohdShayan/DSA/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/MohdShayan/DSA/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/MohdShayan/DSA/tree/master/0455-assign-cookies) |
@@ -204,6 +206,7 @@
 | [0020-valid-parentheses](https://github.com/MohdShayan/DSA/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/MohdShayan/DSA/tree/master/0058-length-of-last-word) |
 | [0171-excel-sheet-column-number](https://github.com/MohdShayan/DSA/tree/master/0171-excel-sheet-column-number) |
+| [0242-valid-anagram](https://github.com/MohdShayan/DSA/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/MohdShayan/DSA/tree/master/0344-reverse-string) |
 | [0657-robot-return-to-origin](https://github.com/MohdShayan/DSA/tree/master/0657-robot-return-to-origin) |
 | [0796-rotate-string](https://github.com/MohdShayan/DSA/tree/master/0796-rotate-string) |
