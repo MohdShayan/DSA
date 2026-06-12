@@ -95,6 +95,7 @@
 | [0069-sqrtx](https://github.com/MohdShayan/DSA/tree/master/0069-sqrtx) |
 | [0171-excel-sheet-column-number](https://github.com/MohdShayan/DSA/tree/master/0171-excel-sheet-column-number) |
 | [0268-missing-number](https://github.com/MohdShayan/DSA/tree/master/0268-missing-number) |
+| [0412-fizz-buzz](https://github.com/MohdShayan/DSA/tree/master/0412-fizz-buzz) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/MohdShayan/DSA/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/MohdShayan/DSA/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1448-maximum-69-number](https://github.com/MohdShayan/DSA/tree/master/1448-maximum-69-number) |
@@ -184,6 +185,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/MohdShayan/DSA/tree/master/0054-spiral-matrix) |
+| [0412-fizz-buzz](https://github.com/MohdShayan/DSA/tree/master/0412-fizz-buzz) |
 | [0657-robot-return-to-origin](https://github.com/MohdShayan/DSA/tree/master/0657-robot-return-to-origin) |
 | [1441-build-an-array-with-stack-operations](https://github.com/MohdShayan/DSA/tree/master/1441-build-an-array-with-stack-operations) |
 | [1518-water-bottles](https://github.com/MohdShayan/DSA/tree/master/1518-water-bottles) |
@@ -212,6 +214,7 @@
 | [0242-valid-anagram](https://github.com/MohdShayan/DSA/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/MohdShayan/DSA/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/MohdShayan/DSA/tree/master/0389-find-the-difference) |
+| [0412-fizz-buzz](https://github.com/MohdShayan/DSA/tree/master/0412-fizz-buzz) |
 | [0657-robot-return-to-origin](https://github.com/MohdShayan/DSA/tree/master/0657-robot-return-to-origin) |
 | [0796-rotate-string](https://github.com/MohdShayan/DSA/tree/master/0796-rotate-string) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/MohdShayan/DSA/tree/master/2452-words-within-two-edits-of-dictionary) |
