@@ -160,6 +160,7 @@
 | [0141-linked-list-cycle](https://github.com/MohdShayan/DSA/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/MohdShayan/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0344-reverse-string](https://github.com/MohdShayan/DSA/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/MohdShayan/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0455-assign-cookies](https://github.com/MohdShayan/DSA/tree/master/0455-assign-cookies) |
 | [0977-squares-of-a-sorted-array](https://github.com/MohdShayan/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/MohdShayan/DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -221,6 +222,7 @@
 | [0171-excel-sheet-column-number](https://github.com/MohdShayan/DSA/tree/master/0171-excel-sheet-column-number) |
 | [0242-valid-anagram](https://github.com/MohdShayan/DSA/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/MohdShayan/DSA/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/MohdShayan/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0389-find-the-difference](https://github.com/MohdShayan/DSA/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/MohdShayan/DSA/tree/master/0412-fizz-buzz) |
 | [0657-robot-return-to-origin](https://github.com/MohdShayan/DSA/tree/master/0657-robot-return-to-origin) |
