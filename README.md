@@ -160,6 +160,7 @@
 | [0075-sort-colors](https://github.com/MohdShayan/DSA/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/MohdShayan/DSA/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/MohdShayan/DSA/tree/master/0160-intersection-of-two-linked-lists) |
+| [0234-palindrome-linked-list](https://github.com/MohdShayan/DSA/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/MohdShayan/DSA/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/MohdShayan/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0455-assign-cookies](https://github.com/MohdShayan/DSA/tree/master/0455-assign-cookies) |
@@ -317,6 +318,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/MohdShayan/DSA/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/MohdShayan/DSA/tree/master/0094-binary-tree-inorder-traversal) |
+| [0234-palindrome-linked-list](https://github.com/MohdShayan/DSA/tree/master/0234-palindrome-linked-list) |
 | [1441-build-an-array-with-stack-operations](https://github.com/MohdShayan/DSA/tree/master/1441-build-an-array-with-stack-operations) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/MohdShayan/DSA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Depth-First Search
@@ -348,6 +350,7 @@
 | [0141-linked-list-cycle](https://github.com/MohdShayan/DSA/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/MohdShayan/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/MohdShayan/DSA/tree/master/0203-remove-linked-list-elements) |
+| [0234-palindrome-linked-list](https://github.com/MohdShayan/DSA/tree/master/0234-palindrome-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/MohdShayan/DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/MohdShayan/DSA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Sliding Window
@@ -359,4 +362,5 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/MohdShayan/DSA/tree/master/0002-add-two-numbers) |
 | [0203-remove-linked-list-elements](https://github.com/MohdShayan/DSA/tree/master/0203-remove-linked-list-elements) |
+| [0234-palindrome-linked-list](https://github.com/MohdShayan/DSA/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
