@@ -90,6 +90,7 @@
 | [3121-count-the-number-of-special-characters-ii](https://github.com/MohdShayan/DSA/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3227-find-missing-and-repeated-values](https://github.com/MohdShayan/DSA/tree/master/3227-find-missing-and-repeated-values) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/MohdShayan/DSA/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
+| [3945-digit-frequency-score](https://github.com/MohdShayan/DSA/tree/master/3945-digit-frequency-score) |
 ## Math
 |  |
 | ------- |
@@ -108,6 +109,7 @@
 | [2549-count-distinct-numbers-on-board](https://github.com/MohdShayan/DSA/tree/master/2549-count-distinct-numbers-on-board) |
 | [3227-find-missing-and-repeated-values](https://github.com/MohdShayan/DSA/tree/master/3227-find-missing-and-repeated-values) |
 | [3830-find-closest-person](https://github.com/MohdShayan/DSA/tree/master/3830-find-closest-person) |
+| [3945-digit-frequency-score](https://github.com/MohdShayan/DSA/tree/master/3945-digit-frequency-score) |
 ## Binary Search
 |  |
 | ------- |
