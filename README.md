@@ -46,6 +46,7 @@
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/MohdShayan/DSA/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1539-kth-missing-positive-number](https://github.com/MohdShayan/DSA/tree/master/1539-kth-missing-positive-number) |
 | [1732-find-the-highest-altitude](https://github.com/MohdShayan/DSA/tree/master/1732-find-the-highest-altitude) |
+| [1833-maximum-ice-cream-bars](https://github.com/MohdShayan/DSA/tree/master/1833-maximum-ice-cream-bars) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/MohdShayan/DSA/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1901-find-a-peak-element-ii](https://github.com/MohdShayan/DSA/tree/master/1901-find-a-peak-element-ii) |
 | [1929-concatenation-of-array](https://github.com/MohdShayan/DSA/tree/master/1929-concatenation-of-array) |
@@ -155,6 +156,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/MohdShayan/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/MohdShayan/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/MohdShayan/DSA/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [1833-maximum-ice-cream-bars](https://github.com/MohdShayan/DSA/tree/master/1833-maximum-ice-cream-bars) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/MohdShayan/DSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2785-sort-vowels-in-a-string](https://github.com/MohdShayan/DSA/tree/master/2785-sort-vowels-in-a-string) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/MohdShayan/DSA/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -259,6 +261,7 @@
 | [0410-split-array-largest-sum](https://github.com/MohdShayan/DSA/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/MohdShayan/DSA/tree/master/0455-assign-cookies) |
 | [1448-maximum-69-number](https://github.com/MohdShayan/DSA/tree/master/1448-maximum-69-number) |
+| [1833-maximum-ice-cream-bars](https://github.com/MohdShayan/DSA/tree/master/1833-maximum-ice-cream-bars) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/MohdShayan/DSA/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/MohdShayan/DSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/MohdShayan/DSA/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -343,6 +346,7 @@
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/MohdShayan/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1833-maximum-ice-cream-bars](https://github.com/MohdShayan/DSA/tree/master/1833-maximum-ice-cream-bars) |
 ## String Matching
 |  |
 | ------- |
