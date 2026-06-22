@@ -86,6 +86,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/MohdShayan/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/MohdShayan/DSA/tree/master/0645-set-mismatch) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/MohdShayan/DSA/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [1189-maximum-number-of-balloons](https://github.com/MohdShayan/DSA/tree/master/1189-maximum-number-of-balloons) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/MohdShayan/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2540-minimum-common-value](https://github.com/MohdShayan/DSA/tree/master/2540-minimum-common-value) |
 | [2549-count-distinct-numbers-on-board](https://github.com/MohdShayan/DSA/tree/master/2549-count-distinct-numbers-on-board) |
@@ -195,6 +196,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/MohdShayan/DSA/tree/master/0169-majority-element) |
+| [1189-maximum-number-of-balloons](https://github.com/MohdShayan/DSA/tree/master/1189-maximum-number-of-balloons) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -244,6 +246,7 @@
 | [0657-robot-return-to-origin](https://github.com/MohdShayan/DSA/tree/master/0657-robot-return-to-origin) |
 | [0796-rotate-string](https://github.com/MohdShayan/DSA/tree/master/0796-rotate-string) |
 | [0917-reverse-only-letters](https://github.com/MohdShayan/DSA/tree/master/0917-reverse-only-letters) |
+| [1189-maximum-number-of-balloons](https://github.com/MohdShayan/DSA/tree/master/1189-maximum-number-of-balloons) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/MohdShayan/DSA/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/MohdShayan/DSA/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2785-sort-vowels-in-a-string](https://github.com/MohdShayan/DSA/tree/master/2785-sort-vowels-in-a-string) |
