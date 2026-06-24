@@ -82,6 +82,7 @@
 | [0242-valid-anagram](https://github.com/MohdShayan/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/MohdShayan/DSA/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/MohdShayan/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0383-ransom-note](https://github.com/MohdShayan/DSA/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/MohdShayan/DSA/tree/master/0389-find-the-difference) |
 | [0560-subarray-sum-equals-k](https://github.com/MohdShayan/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/MohdShayan/DSA/tree/master/0645-set-mismatch) |
@@ -196,6 +197,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/MohdShayan/DSA/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/MohdShayan/DSA/tree/master/0383-ransom-note) |
 | [1189-maximum-number-of-balloons](https://github.com/MohdShayan/DSA/tree/master/1189-maximum-number-of-balloons) |
 ## Dynamic Programming
 |  |
@@ -241,6 +243,7 @@
 | [0242-valid-anagram](https://github.com/MohdShayan/DSA/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/MohdShayan/DSA/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/MohdShayan/DSA/tree/master/0345-reverse-vowels-of-a-string) |
+| [0383-ransom-note](https://github.com/MohdShayan/DSA/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/MohdShayan/DSA/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/MohdShayan/DSA/tree/master/0412-fizz-buzz) |
 | [0657-robot-return-to-origin](https://github.com/MohdShayan/DSA/tree/master/0657-robot-return-to-origin) |
