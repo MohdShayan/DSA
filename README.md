@@ -68,6 +68,7 @@
 | [3637-trionic-array-i](https://github.com/MohdShayan/DSA/tree/master/3637-trionic-array-i) |
 | [3643-flip-square-submatrix-vertically](https://github.com/MohdShayan/DSA/tree/master/3643-flip-square-submatrix-vertically) |
 | [3689-maximum-total-subarray-value-i](https://github.com/MohdShayan/DSA/tree/master/3689-maximum-total-subarray-value-i) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/MohdShayan/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/MohdShayan/DSA/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3838-weighted-word-mapping](https://github.com/MohdShayan/DSA/tree/master/3838-weighted-word-mapping) |
 ## Hash Table
@@ -94,6 +95,7 @@
 | [3120-count-the-number-of-special-characters-i](https://github.com/MohdShayan/DSA/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/MohdShayan/DSA/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3227-find-missing-and-repeated-values](https://github.com/MohdShayan/DSA/tree/master/3227-find-missing-and-repeated-values) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/MohdShayan/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/MohdShayan/DSA/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3945-digit-frequency-score](https://github.com/MohdShayan/DSA/tree/master/3945-digit-frequency-score) |
 ## Math
@@ -193,12 +195,14 @@
 | [0053-maximum-subarray](https://github.com/MohdShayan/DSA/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/MohdShayan/DSA/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/MohdShayan/DSA/tree/master/0240-search-a-2d-matrix-ii) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/MohdShayan/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/MohdShayan/DSA/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/MohdShayan/DSA/tree/master/0383-ransom-note) |
 | [1189-maximum-number-of-balloons](https://github.com/MohdShayan/DSA/tree/master/1189-maximum-number-of-balloons) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/MohdShayan/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -268,6 +272,7 @@
 | [1732-find-the-highest-altitude](https://github.com/MohdShayan/DSA/tree/master/1732-find-the-highest-altitude) |
 | [2485-find-the-pivot-integer](https://github.com/MohdShayan/DSA/tree/master/2485-find-the-pivot-integer) |
 | [2574-left-and-right-sum-differences](https://github.com/MohdShayan/DSA/tree/master/2574-left-and-right-sum-differences) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/MohdShayan/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Greedy
 |  |
 | ------- |
@@ -387,4 +392,12 @@
 | [0002-add-two-numbers](https://github.com/MohdShayan/DSA/tree/master/0002-add-two-numbers) |
 | [0203-remove-linked-list-elements](https://github.com/MohdShayan/DSA/tree/master/0203-remove-linked-list-elements) |
 | [0234-palindrome-linked-list](https://github.com/MohdShayan/DSA/tree/master/0234-palindrome-linked-list) |
+## Segment Tree
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/MohdShayan/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Merge Sort
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/MohdShayan/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 <!---LeetCode Topics End-->
