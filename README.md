@@ -189,6 +189,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/MohdShayan/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/MohdShayan/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/MohdShayan/DSA/tree/master/0455-assign-cookies) |
+| [0844-backspace-string-compare](https://github.com/MohdShayan/DSA/tree/master/0844-backspace-string-compare) |
 | [0917-reverse-only-letters](https://github.com/MohdShayan/DSA/tree/master/0917-reverse-only-letters) |
 | [0977-squares-of-a-sorted-array](https://github.com/MohdShayan/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/MohdShayan/DSA/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -226,6 +227,7 @@
 | [0054-spiral-matrix](https://github.com/MohdShayan/DSA/tree/master/0054-spiral-matrix) |
 | [0412-fizz-buzz](https://github.com/MohdShayan/DSA/tree/master/0412-fizz-buzz) |
 | [0657-robot-return-to-origin](https://github.com/MohdShayan/DSA/tree/master/0657-robot-return-to-origin) |
+| [0844-backspace-string-compare](https://github.com/MohdShayan/DSA/tree/master/0844-backspace-string-compare) |
 | [1441-build-an-array-with-stack-operations](https://github.com/MohdShayan/DSA/tree/master/1441-build-an-array-with-stack-operations) |
 | [1518-water-bottles](https://github.com/MohdShayan/DSA/tree/master/1518-water-bottles) |
 | [1929-concatenation-of-array](https://github.com/MohdShayan/DSA/tree/master/1929-concatenation-of-array) |
@@ -263,6 +265,7 @@
 | [0657-robot-return-to-origin](https://github.com/MohdShayan/DSA/tree/master/0657-robot-return-to-origin) |
 | [0771-jewels-and-stones](https://github.com/MohdShayan/DSA/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/MohdShayan/DSA/tree/master/0796-rotate-string) |
+| [0844-backspace-string-compare](https://github.com/MohdShayan/DSA/tree/master/0844-backspace-string-compare) |
 | [0917-reverse-only-letters](https://github.com/MohdShayan/DSA/tree/master/0917-reverse-only-letters) |
 | [1189-maximum-number-of-balloons](https://github.com/MohdShayan/DSA/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/MohdShayan/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -361,6 +364,7 @@
 | [0020-valid-parentheses](https://github.com/MohdShayan/DSA/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/MohdShayan/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/MohdShayan/DSA/tree/master/0234-palindrome-linked-list) |
+| [0844-backspace-string-compare](https://github.com/MohdShayan/DSA/tree/master/0844-backspace-string-compare) |
 | [1441-build-an-array-with-stack-operations](https://github.com/MohdShayan/DSA/tree/master/1441-build-an-array-with-stack-operations) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/MohdShayan/DSA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Depth-First Search
