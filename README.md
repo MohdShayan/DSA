@@ -165,6 +165,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/MohdShayan/DSA/tree/master/0075-sort-colors) |
+| [0148-sort-list](https://github.com/MohdShayan/DSA/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/MohdShayan/DSA/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/MohdShayan/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/MohdShayan/DSA/tree/master/0268-missing-number) |
@@ -190,6 +191,7 @@
 | [0075-sort-colors](https://github.com/MohdShayan/DSA/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/MohdShayan/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/MohdShayan/DSA/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/MohdShayan/DSA/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/MohdShayan/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/MohdShayan/DSA/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/MohdShayan/DSA/tree/master/0344-reverse-string) |
@@ -212,6 +214,7 @@
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/MohdShayan/DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/MohdShayan/DSA/tree/master/0053-maximum-subarray) |
+| [0148-sort-list](https://github.com/MohdShayan/DSA/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/MohdShayan/DSA/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/MohdShayan/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/MohdShayan/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -410,6 +413,7 @@
 | [0083-remove-duplicates-from-sorted-list](https://github.com/MohdShayan/DSA/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/MohdShayan/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/MohdShayan/DSA/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/MohdShayan/DSA/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/MohdShayan/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/MohdShayan/DSA/tree/master/0203-remove-linked-list-elements) |
 | [0234-palindrome-linked-list](https://github.com/MohdShayan/DSA/tree/master/0234-palindrome-linked-list) |
@@ -438,6 +442,7 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/MohdShayan/DSA/tree/master/0023-merge-k-sorted-lists) |
+| [0148-sort-list](https://github.com/MohdShayan/DSA/tree/master/0148-sort-list) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/MohdShayan/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Heap (Priority Queue)
 |  |
