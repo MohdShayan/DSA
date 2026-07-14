@@ -46,6 +46,7 @@
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/MohdShayan/DSA/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1441-build-an-array-with-stack-operations](https://github.com/MohdShayan/DSA/tree/master/1441-build-an-array-with-stack-operations) |
 | [1470-shuffle-the-array](https://github.com/MohdShayan/DSA/tree/master/1470-shuffle-the-array) |
+| [1472-design-browser-history](https://github.com/MohdShayan/DSA/tree/master/1472-design-browser-history) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/MohdShayan/DSA/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1539-kth-missing-positive-number](https://github.com/MohdShayan/DSA/tree/master/1539-kth-missing-positive-number) |
 | [1732-find-the-highest-altitude](https://github.com/MohdShayan/DSA/tree/master/1732-find-the-highest-altitude) |
@@ -379,6 +380,7 @@
 | [0234-palindrome-linked-list](https://github.com/MohdShayan/DSA/tree/master/0234-palindrome-linked-list) |
 | [0844-backspace-string-compare](https://github.com/MohdShayan/DSA/tree/master/0844-backspace-string-compare) |
 | [1441-build-an-array-with-stack-operations](https://github.com/MohdShayan/DSA/tree/master/1441-build-an-array-with-stack-operations) |
+| [1472-design-browser-history](https://github.com/MohdShayan/DSA/tree/master/1472-design-browser-history) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/MohdShayan/DSA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Depth-First Search
 |  |
@@ -421,6 +423,7 @@
 | [0234-palindrome-linked-list](https://github.com/MohdShayan/DSA/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/MohdShayan/DSA/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/MohdShayan/DSA/tree/master/0328-odd-even-linked-list) |
+| [1472-design-browser-history](https://github.com/MohdShayan/DSA/tree/master/1472-design-browser-history) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/MohdShayan/DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/MohdShayan/DSA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Sliding Window
@@ -454,4 +457,16 @@
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/MohdShayan/DSA/tree/master/1291-sequential-digits) |
+## Design
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/MohdShayan/DSA/tree/master/1472-design-browser-history) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/MohdShayan/DSA/tree/master/1472-design-browser-history) |
+## Data Stream
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/MohdShayan/DSA/tree/master/1472-design-browser-history) |
 <!---LeetCode Topics End-->
