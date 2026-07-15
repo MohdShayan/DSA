@@ -127,6 +127,7 @@
 | [2485-find-the-pivot-integer](https://github.com/MohdShayan/DSA/tree/master/2485-find-the-pivot-integer) |
 | [2549-count-distinct-numbers-on-board](https://github.com/MohdShayan/DSA/tree/master/2549-count-distinct-numbers-on-board) |
 | [3227-find-missing-and-repeated-values](https://github.com/MohdShayan/DSA/tree/master/3227-find-missing-and-repeated-values) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/MohdShayan/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/MohdShayan/DSA/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3830-find-closest-person](https://github.com/MohdShayan/DSA/tree/master/3830-find-closest-person) |
 | [3945-digit-frequency-score](https://github.com/MohdShayan/DSA/tree/master/3945-digit-frequency-score) |
@@ -469,4 +470,8 @@
 |  |
 | ------- |
 | [1472-design-browser-history](https://github.com/MohdShayan/DSA/tree/master/1472-design-browser-history) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/MohdShayan/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
