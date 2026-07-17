@@ -23,6 +23,7 @@
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/MohdShayan/DSA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/MohdShayan/DSA/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/MohdShayan/DSA/tree/master/0169-majority-element) |
+| [0204-count-primes](https://github.com/MohdShayan/DSA/tree/master/0204-count-primes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/MohdShayan/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/MohdShayan/DSA/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/MohdShayan/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -116,6 +117,7 @@
 | [0066-plus-one](https://github.com/MohdShayan/DSA/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/MohdShayan/DSA/tree/master/0069-sqrtx) |
 | [0171-excel-sheet-column-number](https://github.com/MohdShayan/DSA/tree/master/0171-excel-sheet-column-number) |
+| [0204-count-primes](https://github.com/MohdShayan/DSA/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/MohdShayan/DSA/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/MohdShayan/DSA/tree/master/0412-fizz-buzz) |
 | [0507-perfect-number](https://github.com/MohdShayan/DSA/tree/master/0507-perfect-number) |
@@ -459,6 +461,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/MohdShayan/DSA/tree/master/0204-count-primes) |
 | [1291-sequential-digits](https://github.com/MohdShayan/DSA/tree/master/1291-sequential-digits) |
 ## Design
 |  |
@@ -475,5 +478,6 @@
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/MohdShayan/DSA/tree/master/0204-count-primes) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/MohdShayan/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
