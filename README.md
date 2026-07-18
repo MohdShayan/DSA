@@ -131,6 +131,7 @@
 | [1903-largest-odd-number-in-string](https://github.com/MohdShayan/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/MohdShayan/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2485-find-the-pivot-integer](https://github.com/MohdShayan/DSA/tree/master/2485-find-the-pivot-integer) |
+| [2523-closest-prime-numbers-in-range](https://github.com/MohdShayan/DSA/tree/master/2523-closest-prime-numbers-in-range) |
 | [2549-count-distinct-numbers-on-board](https://github.com/MohdShayan/DSA/tree/master/2549-count-distinct-numbers-on-board) |
 | [3227-find-missing-and-repeated-values](https://github.com/MohdShayan/DSA/tree/master/3227-find-missing-and-repeated-values) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/MohdShayan/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -482,5 +483,6 @@
 | ------- |
 | [0204-count-primes](https://github.com/MohdShayan/DSA/tree/master/0204-count-primes) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/MohdShayan/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2523-closest-prime-numbers-in-range](https://github.com/MohdShayan/DSA/tree/master/2523-closest-prime-numbers-in-range) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/MohdShayan/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
