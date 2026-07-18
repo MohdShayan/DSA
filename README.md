@@ -56,6 +56,7 @@
 | [1901-find-a-peak-element-ii](https://github.com/MohdShayan/DSA/tree/master/1901-find-a-peak-element-ii) |
 | [1929-concatenation-of-array](https://github.com/MohdShayan/DSA/tree/master/1929-concatenation-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/MohdShayan/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/MohdShayan/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/MohdShayan/DSA/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/MohdShayan/DSA/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/MohdShayan/DSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -128,6 +129,7 @@
 | [1448-maximum-69-number](https://github.com/MohdShayan/DSA/tree/master/1448-maximum-69-number) |
 | [1518-water-bottles](https://github.com/MohdShayan/DSA/tree/master/1518-water-bottles) |
 | [1903-largest-odd-number-in-string](https://github.com/MohdShayan/DSA/tree/master/1903-largest-odd-number-in-string) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/MohdShayan/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2485-find-the-pivot-integer](https://github.com/MohdShayan/DSA/tree/master/2485-find-the-pivot-integer) |
 | [2549-count-distinct-numbers-on-board](https://github.com/MohdShayan/DSA/tree/master/2549-count-distinct-numbers-on-board) |
 | [3227-find-missing-and-repeated-values](https://github.com/MohdShayan/DSA/tree/master/3227-find-missing-and-repeated-values) |
@@ -479,5 +481,6 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/MohdShayan/DSA/tree/master/0204-count-primes) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/MohdShayan/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/MohdShayan/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
