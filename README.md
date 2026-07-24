@@ -75,6 +75,7 @@
 | [2574-left-and-right-sum-differences](https://github.com/MohdShayan/DSA/tree/master/2574-left-and-right-sum-differences) |
 | [3227-find-missing-and-repeated-values](https://github.com/MohdShayan/DSA/tree/master/3227-find-missing-and-repeated-values) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/MohdShayan/DSA/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/MohdShayan/DSA/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/MohdShayan/DSA/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3637-trionic-array-i](https://github.com/MohdShayan/DSA/tree/master/3637-trionic-array-i) |
 | [3643-flip-square-submatrix-vertically](https://github.com/MohdShayan/DSA/tree/master/3643-flip-square-submatrix-vertically) |
@@ -142,6 +143,7 @@
 | [2523-closest-prime-numbers-in-range](https://github.com/MohdShayan/DSA/tree/master/2523-closest-prime-numbers-in-range) |
 | [2549-count-distinct-numbers-on-board](https://github.com/MohdShayan/DSA/tree/master/2549-count-distinct-numbers-on-board) |
 | [3227-find-missing-and-repeated-values](https://github.com/MohdShayan/DSA/tree/master/3227-find-missing-and-repeated-values) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/MohdShayan/DSA/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/MohdShayan/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/MohdShayan/DSA/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3830-find-closest-person](https://github.com/MohdShayan/DSA/tree/master/3830-find-closest-person) |
@@ -180,6 +182,7 @@
 | [0268-missing-number](https://github.com/MohdShayan/DSA/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/MohdShayan/DSA/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/MohdShayan/DSA/tree/master/0645-set-mismatch) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/MohdShayan/DSA/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -485,6 +488,7 @@
 | ------- |
 | [0204-count-primes](https://github.com/MohdShayan/DSA/tree/master/0204-count-primes) |
 | [1291-sequential-digits](https://github.com/MohdShayan/DSA/tree/master/1291-sequential-digits) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/MohdShayan/DSA/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Design
 |  |
 | ------- |
