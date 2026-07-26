@@ -33,6 +33,7 @@
 | [0485-max-consecutive-ones](https://github.com/MohdShayan/DSA/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/MohdShayan/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/MohdShayan/DSA/tree/master/0560-subarray-sum-equals-k) |
+| [0628-maximum-product-of-three-numbers](https://github.com/MohdShayan/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/MohdShayan/DSA/tree/master/0645-set-mismatch) |
 | [0792-binary-search](https://github.com/MohdShayan/DSA/tree/master/0792-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/MohdShayan/DSA/tree/master/0875-koko-eating-bananas) |
@@ -130,6 +131,7 @@
 | [0268-missing-number](https://github.com/MohdShayan/DSA/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/MohdShayan/DSA/tree/master/0412-fizz-buzz) |
 | [0507-perfect-number](https://github.com/MohdShayan/DSA/tree/master/0507-perfect-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/MohdShayan/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/MohdShayan/DSA/tree/master/0728-self-dividing-numbers) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/MohdShayan/DSA/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/MohdShayan/DSA/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -196,6 +198,7 @@
 | [0389-find-the-difference](https://github.com/MohdShayan/DSA/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/MohdShayan/DSA/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/MohdShayan/DSA/tree/master/0455-assign-cookies) |
+| [0628-maximum-product-of-three-numbers](https://github.com/MohdShayan/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/MohdShayan/DSA/tree/master/0645-set-mismatch) |
 | [0977-squares-of-a-sorted-array](https://github.com/MohdShayan/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1331-rank-transform-of-an-array](https://github.com/MohdShayan/DSA/tree/master/1331-rank-transform-of-an-array) |
