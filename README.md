@@ -101,6 +101,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/MohdShayan/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/MohdShayan/DSA/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/MohdShayan/DSA/tree/master/0389-find-the-difference) |
+| [0424-longest-repeating-character-replacement](https://github.com/MohdShayan/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/MohdShayan/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/MohdShayan/DSA/tree/master/0645-set-mismatch) |
 | [0771-jewels-and-stones](https://github.com/MohdShayan/DSA/tree/master/0771-jewels-and-stones) |
@@ -307,6 +308,7 @@
 | [0389-find-the-difference](https://github.com/MohdShayan/DSA/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/MohdShayan/DSA/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/MohdShayan/DSA/tree/master/0412-fizz-buzz) |
+| [0424-longest-repeating-character-replacement](https://github.com/MohdShayan/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0657-robot-return-to-origin](https://github.com/MohdShayan/DSA/tree/master/0657-robot-return-to-origin) |
 | [0771-jewels-and-stones](https://github.com/MohdShayan/DSA/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/MohdShayan/DSA/tree/master/0796-rotate-string) |
@@ -464,6 +466,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/MohdShayan/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/MohdShayan/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/MohdShayan/DSA/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/MohdShayan/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/MohdShayan/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
