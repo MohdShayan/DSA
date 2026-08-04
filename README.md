@@ -86,6 +86,7 @@
 | [3637-trionic-array-i](https://github.com/MohdShayan/DSA/tree/master/3637-trionic-array-i) |
 | [3643-flip-square-submatrix-vertically](https://github.com/MohdShayan/DSA/tree/master/3643-flip-square-submatrix-vertically) |
 | [3689-maximum-total-subarray-value-i](https://github.com/MohdShayan/DSA/tree/master/3689-maximum-total-subarray-value-i) |
+| [3731-find-missing-elements](https://github.com/MohdShayan/DSA/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/MohdShayan/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/MohdShayan/DSA/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3838-weighted-word-mapping](https://github.com/MohdShayan/DSA/tree/master/3838-weighted-word-mapping) |
@@ -127,6 +128,7 @@
 | [3120-count-the-number-of-special-characters-i](https://github.com/MohdShayan/DSA/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/MohdShayan/DSA/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3227-find-missing-and-repeated-values](https://github.com/MohdShayan/DSA/tree/master/3227-find-missing-and-repeated-values) |
+| [3731-find-missing-elements](https://github.com/MohdShayan/DSA/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/MohdShayan/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/MohdShayan/DSA/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3945-digit-frequency-score](https://github.com/MohdShayan/DSA/tree/master/3945-digit-frequency-score) |
@@ -225,6 +227,7 @@
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/MohdShayan/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/MohdShayan/DSA/tree/master/3536-maximum-product-of-two-digits) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/MohdShayan/DSA/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3731-find-missing-elements](https://github.com/MohdShayan/DSA/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
 | ------- |
