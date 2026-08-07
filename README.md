@@ -79,6 +79,7 @@
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/MohdShayan/DSA/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2540-minimum-common-value](https://github.com/MohdShayan/DSA/tree/master/2540-minimum-common-value) |
 | [2549-count-distinct-numbers-on-board](https://github.com/MohdShayan/DSA/tree/master/2549-count-distinct-numbers-on-board) |
+| [2553-separate-the-digits-in-an-array](https://github.com/MohdShayan/DSA/tree/master/2553-separate-the-digits-in-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/MohdShayan/DSA/tree/master/2574-left-and-right-sum-differences) |
 | [3227-find-missing-and-repeated-values](https://github.com/MohdShayan/DSA/tree/master/3227-find-missing-and-repeated-values) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/MohdShayan/DSA/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
@@ -298,6 +299,7 @@
 | [2161-partition-array-according-to-given-pivot](https://github.com/MohdShayan/DSA/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/MohdShayan/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2549-count-distinct-numbers-on-board](https://github.com/MohdShayan/DSA/tree/master/2549-count-distinct-numbers-on-board) |
+| [2553-separate-the-digits-in-an-array](https://github.com/MohdShayan/DSA/tree/master/2553-separate-the-digits-in-an-array) |
 | [2810-faulty-keyboard](https://github.com/MohdShayan/DSA/tree/master/2810-faulty-keyboard) |
 | [3612-process-string-with-special-operations-i](https://github.com/MohdShayan/DSA/tree/master/3612-process-string-with-special-operations-i) |
 | [3838-weighted-word-mapping](https://github.com/MohdShayan/DSA/tree/master/3838-weighted-word-mapping) |
