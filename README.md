@@ -143,6 +143,7 @@
 | [0048-rotate-image](https://github.com/MohdShayan/DSA/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/MohdShayan/DSA/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/MohdShayan/DSA/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/MohdShayan/DSA/tree/master/0070-climbing-stairs) |
 | [0171-excel-sheet-column-number](https://github.com/MohdShayan/DSA/tree/master/0171-excel-sheet-column-number) |
 | [0204-count-primes](https://github.com/MohdShayan/DSA/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/MohdShayan/DSA/tree/master/0268-missing-number) |
@@ -284,6 +285,7 @@
 | ------- |
 | [0045-jump-game-ii](https://github.com/MohdShayan/DSA/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/MohdShayan/DSA/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/MohdShayan/DSA/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MohdShayan/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/MohdShayan/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0392-is-subsequence](https://github.com/MohdShayan/DSA/tree/master/0392-is-subsequence) |
@@ -561,4 +563,8 @@
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/MohdShayan/DSA/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2523-closest-prime-numbers-in-range](https://github.com/MohdShayan/DSA/tree/master/2523-closest-prime-numbers-in-range) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/MohdShayan/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/MohdShayan/DSA/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
