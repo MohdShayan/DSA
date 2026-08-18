@@ -89,6 +89,7 @@
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/MohdShayan/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3227-find-missing-and-repeated-values](https://github.com/MohdShayan/DSA/tree/master/3227-find-missing-and-repeated-values) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/MohdShayan/DSA/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/MohdShayan/DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/MohdShayan/DSA/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/MohdShayan/DSA/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3637-trionic-array-i](https://github.com/MohdShayan/DSA/tree/master/3637-trionic-array-i) |
@@ -140,6 +141,7 @@
 | [3120-count-the-number-of-special-characters-i](https://github.com/MohdShayan/DSA/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/MohdShayan/DSA/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3227-find-missing-and-repeated-values](https://github.com/MohdShayan/DSA/tree/master/3227-find-missing-and-repeated-values) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/MohdShayan/DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3731-find-missing-elements](https://github.com/MohdShayan/DSA/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/MohdShayan/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/MohdShayan/DSA/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
