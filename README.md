@@ -471,6 +471,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/MohdShayan/DSA/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/MohdShayan/DSA/tree/master/0094-binary-tree-inorder-traversal) |
+| [0155-min-stack](https://github.com/MohdShayan/DSA/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/MohdShayan/DSA/tree/master/0234-palindrome-linked-list) |
 | [0678-valid-parenthesis-string](https://github.com/MohdShayan/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0844-backspace-string-compare](https://github.com/MohdShayan/DSA/tree/master/0844-backspace-string-compare) |
@@ -569,6 +570,7 @@
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/MohdShayan/DSA/tree/master/0155-min-stack) |
 | [1472-design-browser-history](https://github.com/MohdShayan/DSA/tree/master/1472-design-browser-history) |
 ## Doubly-Linked List
 |  |
