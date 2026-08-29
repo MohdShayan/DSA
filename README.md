@@ -366,6 +366,7 @@
 | [0383-ransom-note](https://github.com/MohdShayan/DSA/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/MohdShayan/DSA/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/MohdShayan/DSA/tree/master/0392-is-subsequence) |
+| [0402-remove-k-digits](https://github.com/MohdShayan/DSA/tree/master/0402-remove-k-digits) |
 | [0412-fizz-buzz](https://github.com/MohdShayan/DSA/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/MohdShayan/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0657-robot-return-to-origin](https://github.com/MohdShayan/DSA/tree/master/0657-robot-return-to-origin) |
@@ -411,6 +412,7 @@
 | ------- |
 | [0045-jump-game-ii](https://github.com/MohdShayan/DSA/tree/master/0045-jump-game-ii) |
 | [0135-candy](https://github.com/MohdShayan/DSA/tree/master/0135-candy) |
+| [0402-remove-k-digits](https://github.com/MohdShayan/DSA/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/MohdShayan/DSA/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/MohdShayan/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/MohdShayan/DSA/tree/master/0455-assign-cookies) |
@@ -489,6 +491,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/MohdShayan/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0155-min-stack](https://github.com/MohdShayan/DSA/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/MohdShayan/DSA/tree/master/0234-palindrome-linked-list) |
+| [0402-remove-k-digits](https://github.com/MohdShayan/DSA/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/MohdShayan/DSA/tree/master/0496-next-greater-element-i) |
 | [0678-valid-parenthesis-string](https://github.com/MohdShayan/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/MohdShayan/DSA/tree/master/0735-asteroid-collision) |
@@ -621,6 +624,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/MohdShayan/DSA/tree/master/0042-trapping-rain-water) |
+| [0402-remove-k-digits](https://github.com/MohdShayan/DSA/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/MohdShayan/DSA/tree/master/0496-next-greater-element-i) |
 | [0907-sum-of-subarray-minimums](https://github.com/MohdShayan/DSA/tree/master/0907-sum-of-subarray-minimums) |
 | [2104-sum-of-subarray-ranges](https://github.com/MohdShayan/DSA/tree/master/2104-sum-of-subarray-ranges) |
