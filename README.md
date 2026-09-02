@@ -109,6 +109,7 @@
 | [3737-count-subarrays-with-majority-element-i](https://github.com/MohdShayan/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/MohdShayan/DSA/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3838-weighted-word-mapping](https://github.com/MohdShayan/DSA/tree/master/3838-weighted-word-mapping) |
+| [3875-construct-uniform-parity-array-i](https://github.com/MohdShayan/DSA/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -194,6 +195,7 @@
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/MohdShayan/DSA/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3783-mirror-distance-of-an-integer](https://github.com/MohdShayan/DSA/tree/master/3783-mirror-distance-of-an-integer) |
 | [3830-find-closest-person](https://github.com/MohdShayan/DSA/tree/master/3830-find-closest-person) |
+| [3875-construct-uniform-parity-array-i](https://github.com/MohdShayan/DSA/tree/master/3875-construct-uniform-parity-array-i) |
 | [3945-digit-frequency-score](https://github.com/MohdShayan/DSA/tree/master/3945-digit-frequency-score) |
 ## Binary Search
 |  |
