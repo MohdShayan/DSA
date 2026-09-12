@@ -507,6 +507,7 @@
 | [0678-valid-parenthesis-string](https://github.com/MohdShayan/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/MohdShayan/DSA/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/MohdShayan/DSA/tree/master/0844-backspace-string-compare) |
+| [0901-online-stock-span](https://github.com/MohdShayan/DSA/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/MohdShayan/DSA/tree/master/0907-sum-of-subarray-minimums) |
 | [1441-build-an-array-with-stack-operations](https://github.com/MohdShayan/DSA/tree/master/1441-build-an-array-with-stack-operations) |
 | [1472-design-browser-history](https://github.com/MohdShayan/DSA/tree/master/1472-design-browser-history) |
@@ -605,6 +606,7 @@
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/MohdShayan/DSA/tree/master/0155-min-stack) |
+| [0901-online-stock-span](https://github.com/MohdShayan/DSA/tree/master/0901-online-stock-span) |
 | [1472-design-browser-history](https://github.com/MohdShayan/DSA/tree/master/1472-design-browser-history) |
 ## Doubly-Linked List
 |  |
@@ -613,6 +615,7 @@
 ## Data Stream
 |  |
 | ------- |
+| [0901-online-stock-span](https://github.com/MohdShayan/DSA/tree/master/0901-online-stock-span) |
 | [1472-design-browser-history](https://github.com/MohdShayan/DSA/tree/master/1472-design-browser-history) |
 ## Number Theory
 |  |
@@ -638,6 +641,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/MohdShayan/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0402-remove-k-digits](https://github.com/MohdShayan/DSA/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/MohdShayan/DSA/tree/master/0496-next-greater-element-i) |
+| [0901-online-stock-span](https://github.com/MohdShayan/DSA/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/MohdShayan/DSA/tree/master/0907-sum-of-subarray-minimums) |
 | [2104-sum-of-subarray-ranges](https://github.com/MohdShayan/DSA/tree/master/2104-sum-of-subarray-ranges) |
 ## Range Minimum/Maximum Query
