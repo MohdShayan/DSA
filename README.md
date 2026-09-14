@@ -175,6 +175,7 @@
 | [0507-perfect-number](https://github.com/MohdShayan/DSA/tree/master/0507-perfect-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/MohdShayan/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/MohdShayan/DSA/tree/master/0728-self-dividing-numbers) |
+| [0836-rectangle-overlap](https://github.com/MohdShayan/DSA/tree/master/0836-rectangle-overlap) |
 | [1248-count-number-of-nice-subarrays](https://github.com/MohdShayan/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/MohdShayan/DSA/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/MohdShayan/DSA/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -648,4 +649,8 @@
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/MohdShayan/DSA/tree/master/0084-largest-rectangle-in-histogram) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/MohdShayan/DSA/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
