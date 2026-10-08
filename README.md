@@ -384,6 +384,7 @@
 | [0796-rotate-string](https://github.com/MohdShayan/DSA/tree/master/0796-rotate-string) |
 | [0844-backspace-string-compare](https://github.com/MohdShayan/DSA/tree/master/0844-backspace-string-compare) |
 | [0917-reverse-only-letters](https://github.com/MohdShayan/DSA/tree/master/0917-reverse-only-letters) |
+| [1021-remove-outermost-parentheses](https://github.com/MohdShayan/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1189-maximum-number-of-balloons](https://github.com/MohdShayan/DSA/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/MohdShayan/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1903-largest-odd-number-in-string](https://github.com/MohdShayan/DSA/tree/master/1903-largest-odd-number-in-string) |
@@ -511,6 +512,7 @@
 | [0844-backspace-string-compare](https://github.com/MohdShayan/DSA/tree/master/0844-backspace-string-compare) |
 | [0901-online-stock-span](https://github.com/MohdShayan/DSA/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/MohdShayan/DSA/tree/master/0907-sum-of-subarray-minimums) |
+| [1021-remove-outermost-parentheses](https://github.com/MohdShayan/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1441-build-an-array-with-stack-operations](https://github.com/MohdShayan/DSA/tree/master/1441-build-an-array-with-stack-operations) |
 | [1472-design-browser-history](https://github.com/MohdShayan/DSA/tree/master/1472-design-browser-history) |
 | [2104-sum-of-subarray-ranges](https://github.com/MohdShayan/DSA/tree/master/2104-sum-of-subarray-ranges) |
@@ -636,6 +638,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/MohdShayan/DSA/tree/master/0020-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/MohdShayan/DSA/tree/master/0678-valid-parenthesis-string) |
+| [1021-remove-outermost-parentheses](https://github.com/MohdShayan/DSA/tree/master/1021-remove-outermost-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
