@@ -92,6 +92,7 @@
 | [2549-count-distinct-numbers-on-board](https://github.com/MohdShayan/DSA/tree/master/2549-count-distinct-numbers-on-board) |
 | [2553-separate-the-digits-in-an-array](https://github.com/MohdShayan/DSA/tree/master/2553-separate-the-digits-in-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/MohdShayan/DSA/tree/master/2574-left-and-right-sum-differences) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/MohdShayan/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/MohdShayan/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/MohdShayan/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/MohdShayan/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -604,6 +605,7 @@
 | ------- |
 | [0204-count-primes](https://github.com/MohdShayan/DSA/tree/master/0204-count-primes) |
 | [1291-sequential-digits](https://github.com/MohdShayan/DSA/tree/master/1291-sequential-digits) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/MohdShayan/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/MohdShayan/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/MohdShayan/DSA/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Design
