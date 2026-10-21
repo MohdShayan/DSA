@@ -78,6 +78,7 @@
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/MohdShayan/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/MohdShayan/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/MohdShayan/DSA/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/MohdShayan/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/MohdShayan/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2104-sum-of-subarray-ranges](https://github.com/MohdShayan/DSA/tree/master/2104-sum-of-subarray-ranges) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/MohdShayan/DSA/tree/master/2144-maximum-difference-between-increasing-elements) |
@@ -231,6 +232,7 @@
 | [1346-check-if-n-and-its-double-exist](https://github.com/MohdShayan/DSA/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1539-kth-missing-positive-number](https://github.com/MohdShayan/DSA/tree/master/1539-kth-missing-positive-number) |
 | [1901-find-a-peak-element-ii](https://github.com/MohdShayan/DSA/tree/master/1901-find-a-peak-element-ii) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/MohdShayan/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2540-minimum-common-value](https://github.com/MohdShayan/DSA/tree/master/2540-minimum-common-value) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/MohdShayan/DSA/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Bit Manipulation
@@ -265,6 +267,7 @@
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/MohdShayan/DSA/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1710-maximum-units-on-a-truck](https://github.com/MohdShayan/DSA/tree/master/1710-maximum-units-on-a-truck) |
 | [1833-maximum-ice-cream-bars](https://github.com/MohdShayan/DSA/tree/master/1833-maximum-ice-cream-bars) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/MohdShayan/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/MohdShayan/DSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2785-sort-vowels-in-a-string](https://github.com/MohdShayan/DSA/tree/master/2785-sort-vowels-in-a-string) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/MohdShayan/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
