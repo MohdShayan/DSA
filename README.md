@@ -191,6 +191,7 @@
 | [1518-water-bottles](https://github.com/MohdShayan/DSA/tree/master/1518-water-bottles) |
 | [1903-largest-odd-number-in-string](https://github.com/MohdShayan/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/MohdShayan/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2409-count-days-spent-together](https://github.com/MohdShayan/DSA/tree/master/2409-count-days-spent-together) |
 | [2485-find-the-pivot-integer](https://github.com/MohdShayan/DSA/tree/master/2485-find-the-pivot-integer) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/MohdShayan/DSA/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2523-closest-prime-numbers-in-range](https://github.com/MohdShayan/DSA/tree/master/2523-closest-prime-numbers-in-range) |
@@ -401,6 +402,7 @@
 | [1903-largest-odd-number-in-string](https://github.com/MohdShayan/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/MohdShayan/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2264-largest-3-same-digit-number-in-string](https://github.com/MohdShayan/DSA/tree/master/2264-largest-3-same-digit-number-in-string) |
+| [2409-count-days-spent-together](https://github.com/MohdShayan/DSA/tree/master/2409-count-days-spent-together) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/MohdShayan/DSA/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/MohdShayan/DSA/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2785-sort-vowels-in-a-string](https://github.com/MohdShayan/DSA/tree/master/2785-sort-vowels-in-a-string) |
