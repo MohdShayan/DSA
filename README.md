@@ -61,6 +61,7 @@
 | [1331-rank-transform-of-an-array](https://github.com/MohdShayan/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/MohdShayan/DSA/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/MohdShayan/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/MohdShayan/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/MohdShayan/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/MohdShayan/DSA/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1441-build-an-array-with-stack-operations](https://github.com/MohdShayan/DSA/tree/master/1441-build-an-array-with-stack-operations) |
@@ -233,6 +234,7 @@
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/MohdShayan/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/MohdShayan/DSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/MohdShayan/DSA/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/MohdShayan/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1539-kth-missing-positive-number](https://github.com/MohdShayan/DSA/tree/master/1539-kth-missing-positive-number) |
 | [1901-find-a-peak-element-ii](https://github.com/MohdShayan/DSA/tree/master/1901-find-a-peak-element-ii) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/MohdShayan/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -266,6 +268,7 @@
 | [1331-rank-transform-of-an-array](https://github.com/MohdShayan/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/MohdShayan/DSA/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/MohdShayan/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/MohdShayan/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/MohdShayan/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/MohdShayan/DSA/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1710-maximum-units-on-a-truck](https://github.com/MohdShayan/DSA/tree/master/1710-maximum-units-on-a-truck) |
@@ -300,6 +303,7 @@
 | [0917-reverse-only-letters](https://github.com/MohdShayan/DSA/tree/master/0917-reverse-only-letters) |
 | [0977-squares-of-a-sorted-array](https://github.com/MohdShayan/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/MohdShayan/DSA/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/MohdShayan/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/MohdShayan/DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/MohdShayan/DSA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/MohdShayan/DSA/tree/master/2161-partition-array-according-to-given-pivot) |
