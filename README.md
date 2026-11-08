@@ -57,6 +57,7 @@
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/MohdShayan/DSA/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1248-count-number-of-nice-subarrays](https://github.com/MohdShayan/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1260-shift-2d-grid](https://github.com/MohdShayan/DSA/tree/master/1260-shift-2d-grid) |
+| [1267-count-servers-that-communicate](https://github.com/MohdShayan/DSA/tree/master/1267-count-servers-that-communicate) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/MohdShayan/DSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1331-rank-transform-of-an-array](https://github.com/MohdShayan/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/MohdShayan/DSA/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -327,6 +328,7 @@
 | [0383-ransom-note](https://github.com/MohdShayan/DSA/tree/master/0383-ransom-note) |
 | [0992-subarrays-with-k-different-integers](https://github.com/MohdShayan/DSA/tree/master/0992-subarrays-with-k-different-integers) |
 | [1189-maximum-number-of-balloons](https://github.com/MohdShayan/DSA/tree/master/1189-maximum-number-of-balloons) |
+| [1267-count-servers-that-communicate](https://github.com/MohdShayan/DSA/tree/master/1267-count-servers-that-communicate) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/MohdShayan/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/MohdShayan/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Dynamic Programming
@@ -373,6 +375,7 @@
 | [0074-search-a-2d-matrix](https://github.com/MohdShayan/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/MohdShayan/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [1260-shift-2d-grid](https://github.com/MohdShayan/DSA/tree/master/1260-shift-2d-grid) |
+| [1267-count-servers-that-communicate](https://github.com/MohdShayan/DSA/tree/master/1267-count-servers-that-communicate) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/MohdShayan/DSA/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1901-find-a-peak-element-ii](https://github.com/MohdShayan/DSA/tree/master/1901-find-a-peak-element-ii) |
 | [3227-find-missing-and-repeated-values](https://github.com/MohdShayan/DSA/tree/master/3227-find-missing-and-repeated-values) |
@@ -504,6 +507,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/MohdShayan/DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/MohdShayan/DSA/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/MohdShayan/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
+| [1267-count-servers-that-communicate](https://github.com/MohdShayan/DSA/tree/master/1267-count-servers-that-communicate) |
 ## Binary Tree
 |  |
 | ------- |
@@ -545,6 +549,7 @@
 | [0110-balanced-binary-tree](https://github.com/MohdShayan/DSA/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/MohdShayan/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/MohdShayan/DSA/tree/master/0543-diameter-of-binary-tree) |
+| [1267-count-servers-that-communicate](https://github.com/MohdShayan/DSA/tree/master/1267-count-servers-that-communicate) |
 ## Trie
 |  |
 | ------- |
@@ -683,4 +688,8 @@
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/MohdShayan/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Union-Find
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/MohdShayan/DSA/tree/master/1267-count-servers-that-communicate) |
 <!---LeetCode Topics End-->
