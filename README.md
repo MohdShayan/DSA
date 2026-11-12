@@ -35,6 +35,7 @@
 | [0410-split-array-largest-sum](https://github.com/MohdShayan/DSA/tree/master/0410-split-array-largest-sum) |
 | [0414-third-maximum-number](https://github.com/MohdShayan/DSA/tree/master/0414-third-maximum-number) |
 | [0435-non-overlapping-intervals](https://github.com/MohdShayan/DSA/tree/master/0435-non-overlapping-intervals) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/MohdShayan/DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0455-assign-cookies](https://github.com/MohdShayan/DSA/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/MohdShayan/DSA/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/MohdShayan/DSA/tree/master/0496-next-greater-element-i) |
@@ -182,6 +183,7 @@
 | [0204-count-primes](https://github.com/MohdShayan/DSA/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/MohdShayan/DSA/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/MohdShayan/DSA/tree/master/0412-fizz-buzz) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/MohdShayan/DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0507-perfect-number](https://github.com/MohdShayan/DSA/tree/master/0507-perfect-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/MohdShayan/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/MohdShayan/DSA/tree/master/0728-self-dividing-numbers) |
