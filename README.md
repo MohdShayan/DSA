@@ -424,6 +424,7 @@
 | [2785-sort-vowels-in-a-string](https://github.com/MohdShayan/DSA/tree/master/2785-sort-vowels-in-a-string) |
 | [2810-faulty-keyboard](https://github.com/MohdShayan/DSA/tree/master/2810-faulty-keyboard) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/MohdShayan/DSA/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/MohdShayan/DSA/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/MohdShayan/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/MohdShayan/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/MohdShayan/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
