@@ -416,6 +416,7 @@
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/MohdShayan/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1903-largest-odd-number-in-string](https://github.com/MohdShayan/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/MohdShayan/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/MohdShayan/DSA/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/MohdShayan/DSA/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2264-largest-3-same-digit-number-in-string](https://github.com/MohdShayan/DSA/tree/master/2264-largest-3-same-digit-number-in-string) |
 | [2409-count-days-spent-together](https://github.com/MohdShayan/DSA/tree/master/2409-count-days-spent-together) |
